@@ -26,8 +26,8 @@ const FSHARE_GET_USER_PATH = '/api/user/get'
 const FSHARE_DOWNLOAD_PATH = '/api/session/download'
 let fshare = {
 	'app_key': 'dMnqMMZMUnN5YpvKENaEhdQQ5jxDqddt',
-	'user_email': 'disposableslot@gmail.com',
-	'password': 'fs7#ds#pw@K'
+	'user_email': '',
+	'password': ''
 }
 
 // ************** Promisify standard functions ************
